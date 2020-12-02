@@ -1,3 +1,5 @@
+**目次に戻る**: [Oracle Content and Experience チュートリアル](https://community.oracle.com/tech/welcome/discussion/4474330)
+
 # Oracle Content and Experience のVideo Plus アセットを使ってみよう
 このチュートリアルは、Oracle Content and Experience (OCE)の有償オプション機能である **拡張ビデオ機能（Video Plus アセット）** を利用する手順について、ステップ・バイ・ステップで紹介します
 
@@ -182,3 +184,5 @@ OCEインスタンスの拡張ビデオ機能を有効化します
 1. 動画をクリックし、再生できることを確認します
 
 以上で、このチュートリアルは終了です。お疲れさまでした
+
+**目次に戻る**: [Oracle Content and Experience チュートリアル](https://community.oracle.com/tech/welcome/discussion/4474330)
